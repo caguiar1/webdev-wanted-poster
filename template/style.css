@@ -1,0 +1,36 @@
+body{
+    height: 100%;
+    width: 100%;
+    margin: 1%; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+main{
+    text-align: center;
+}
+
+main div.poster h1{
+    font-size: 3em;
+    margin-bottom: -10px;
+}
+
+main div.poster {
+    border: 4px solid #69FF67;
+    width: 60%;
+    position: relative;
+    left: 18%;
+    background-color:#7079FF;
+    padding: 20px;
+}
+
+main div.poster img{
+    width: 70%;
+}
+
+main div.poster p{
+    font-size: 1.1em;
+}
+
+main div.poster h3{
+    color:#0B140E;
+}
